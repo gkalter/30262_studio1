@@ -10,7 +10,9 @@ Ahh can you believe that Hank Quinlan guy! Anyways this is my blog now soooo... 
 
 A map of where I spend absolutely too much money!
 
-<iframe src="https://memegenerator.net/img/instances/75660335.jpg" frameborder="0" width="100%" height="400"></iframe>
+<iframe src="https://memegenerator.net/img/instances/75660335.jpg" width="100%" height="400"></iframe>
+
+<p></p>
 
 
 

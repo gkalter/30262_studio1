@@ -1,11 +1,81 @@
 ---
 layout: default
-title: Hank Quinlan's Blog
+title: About Me
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
+	<h5>Urban Geography</h5>
+        <p><a href="https://www.clarku.edu/">Clark University</a></p>
+        <p><a href="pdfs/CV.docx">CV</a></p>
+    </th>
+    </thead>
+</table></div>
+<hr>
 
-	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<div onmouseenter="ChangeColor(this)" onmouseleave="ChangeColorBack(this)">
+<h3 > About Me </h3>
+<p id="about"> My name is Garren Kalter. I'm 22 years old and am originally from Chicago, IL. I am finishing up my senior year here at
+    Clark and plan to complete the MS GIS fifth year program next year. While I have lots of academic interests, my formal
+    academic background is a little more narrow. Come May, I'll have finished the undergraduate programs in Economics
+    and Geography with concentrations in Ethics and Public Policy, Urban Geography, and a focus on Environmental Economics.
+    My research focuses on transit optimization and I'm very excited to share the findings of my exploratory report with the city of Worcester once
+    my thesis is complete. While at Clark, I've worn lots of hats. I've been a student representative, a beekeeper, an intramural athlete, a peer mentor, and an environmentalist. I really enjoy things
+    like cooking, reading, exploring new parts of town, and having long intellectual conversations over coffee or tea. </p></div>
+<hr>
+
+<div onmouseenter="ChangeColor(this)" onmouseleave="ChangeColorBack(this)">
+<h3>Classes I've Taken</h3>
+<ul>
+    <li>Low Code Web Development</li>
+    <li>Geospatial Analysis with R</li>
+    <li>Urban Design Research Lab</li>
+    <li>Environmental Economics</li>
+    <li>Advanced Vector GIS</li>
+    <li>Remote Sensing</li>
+</ul></div>
+<hr>
+<div onmouseenter="ChangeColor(this)" onmouseleave="ChangeColorBack(this)">
+<h3> Hobbies </h3>
+<table>
+    <thead>
+    <tr>
+        <th>Hobby</th>
+        <th>Rating</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Coffee</td>
+        <td>☕☕☕☕☕☕☕☕☕☕☕</td>
+    </tr>
+    <tr>
+        <td>Exploring</td>
+        <td>🚶‍🚶‍🚶‍🚶‍🚶‍🚶‍</td>
+    </tr>
+    <tr>
+        <td>Frisbee</td>
+        <td>🥏🥏🥏🥏🥏🥏</td>
+    </tr>
+    <tr>
+        <td>Cooking</td>
+        <td>🧑‍🍳🧑‍🍳🧑‍🍳🧑‍🍳🧑‍🍳</td>
+    </tr>
+    <tr>
+        <td>Reading</td>
+        <td>📚📚📚</td>
+    </tr>
+
+    </tbody>
+</table></div>
+
+<hr>
+<div onmouseenter="ChangeColor(this)" onmouseleave="ChangeColorBack(this)">
+<h3>Tell Me about You</h3>
+<form id="age">
+    <label>Name</label><br>
+    <input id="user" type="text" name="name_text" value=""><br>
+    <Label>Age</Label><br>
+    <input id="other_age" type="number" value=""><br>
+    <input type="Submit" value="Submit" onclick="showAge()">
+
+</form></div>
+</body>
+</html>

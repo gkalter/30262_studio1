@@ -14,4 +14,6 @@ A map of where I spend absolutely too much money!
 
 A GeoJSON map of most of the cities I've ever been too...
 
+map.geojson
+
 

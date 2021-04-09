@@ -10,7 +10,7 @@ Ahh can you believe that Hank Quinlan guy! Anyways this is my blog now soooo... 
 
 A map of where I spend absolutely too much money!
 
-<iframe src="https://media1.tenor.com/images/391ea4fb2bba05ef0903f99fa2d19f36/tenor.gif?itemid=4247192" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://memegenerator.net/img/instances/75660335.jpg" frameborder="0" width="100%" height="800"></iframe>
 
 
 
@@ -18,7 +18,7 @@ A map of where I spend absolutely too much money!
 
 A GeoJSON map of most of the cities I've ever been too...
 
-<iframe src="https://a.tiles.mapbox.com/styles/v1/mapbox/light-v10/tiles/1/1/0@2x?access_token=pk.eyJ1IjoiZ2l0aHViIiwiYSI6ImNqaHcxdnVhZDE1Z20za2w2bXo2MGlpMjYifQ.440aOf-0gSggvf319ukLzA" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://github.com/gkalter/gkalter.github.io/blob/master/map.geojson" frameborder="0" width="100%" height="800"></iframe>
 
 
 

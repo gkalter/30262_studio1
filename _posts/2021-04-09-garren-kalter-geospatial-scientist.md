@@ -10,6 +10,10 @@ Ahh can you believe that Hank Quinlan guy! Anyways this is my blog now soooo... 
 
 A map of where I spend absolutely too much money!
 
+<iframe src="https://media2.giphy.com/media/9IsCJJA65mxO/200.gif" frameborder="0" width="100%" height="800"></iframe>
+
+
+
 <iframe src="https://www.google.com/maps/d/embed?mid=1cNnCSxOPYoVi6USB10v21fV49kxDkX8m" width="1000" height="480"></iframe>
 
 A GeoJSON map of most of the cities I've ever been too...

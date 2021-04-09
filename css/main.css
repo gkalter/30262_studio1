@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-color: #264653;
+    background-color: #e76f51;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -44,3 +44,22 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+#about{
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        color: #2a9d8f;
+    }
+
+    #left{
+        text-align: left;
+    }
+    #age{
+        text-align: center;
+        color: 
+    }
+
+    h3{ text-align: center;
+        color: #0B24D3;
+    }

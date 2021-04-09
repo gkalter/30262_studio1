@@ -18,7 +18,7 @@ A map of where I spend absolutely too much money!
 
 A GeoJSON map of most of the cities I've ever been too...
 
-<iframe src="map.geojson" frameborder="0" width="100%" height="800"></iframe>
+<iframe src="https://a.tiles.mapbox.com/styles/v1/mapbox/light-v10/tiles/1/1/0@2x?access_token=pk.eyJ1IjoiZ2l0aHViIiwiYSI6ImNqaHcxdnVhZDE1Z20za2w2bXo2MGlpMjYifQ.440aOf-0gSggvf319ukLzA" frameborder="0" width="100%" height="800"></iframe>
 
 
 

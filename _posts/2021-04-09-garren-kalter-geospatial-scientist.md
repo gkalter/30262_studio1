@@ -18,7 +18,7 @@ A map of where I spend absolutely too much money!
 
 A GeoJSON map of most of the cities I've ever been too...
 
-<script src="https://embed.github.com/view/geojson/gkalter/gkalter.github.io/blob/master/map.geojson"></script>
+<script src="https://embed.github.com/view/geojson/gkalter/gkalter.github.io/master/map.geojson"></script>
 
 
 
